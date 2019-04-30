@@ -33,6 +33,7 @@
     <component id="MXMLDragInitiator" class="org.apache.royale.core.MXMLDragInitiator" />
     <component id="CallLaterBead" class="org.apache.royale.core.CallLaterBead" />
     <component id="SimpleLocalizedValuesImpl" class="org.apache.royale.core.SimpleLocalizedValuesImpl"/>
+    <component id="Version" class="org.apache.royale.core.Version"/>
 
     <component id="BindableCSSStyles" class="org.apache.royale.core.BindableCSSStyles"/>
     <component id="BindableCSSStylesWithFlex" class="org.apache.royale.core.BindableCSSStylesWithFlex"/>
@@ -48,8 +49,8 @@
     <component id="TransformMoveXModel" class="org.apache.royale.core.TransformMoveXModel" />
     <component id="TransformMoveYModel" class="org.apache.royale.core.TransformMoveYModel" />
     <component id="TransformScaleModel" class="org.apache.royale.core.TransformScaleModel" />
-    
+
     <component id="StyleChangeNotifier" class="org.apache.royale.core.StyleChangeNotifier"/>
-    
+
     <component id="State" class="org.apache.royale.states.State"/>
 </componentPackage>
